@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliramazanov
-- 👀 I’m interested in data science and analysis, application of programming in business and finance, automation
-- 🌱 Currently learning Python and SQL
-- 💞️ Looking to collaborate on projects which will provide solutions to problems in urbanism, agriculture, education and etc.
+- 👀 I’m interested in data science and analysis, application of programming in business and finance, automation, web development
+- 🌱 Currently learning Data Science and Front-End Engineering
+- 💞️ Looking to collaborate on projects which will provide solutions to problems in urbanism, agriculture, transportation, education and etc.
 - 📫 How to reach me: aliirmznv@gmail.com
