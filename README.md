@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @aliramazanov
-- 👀 I’m interested in data science & analysis, application of programming in business & finance, automation, web development
-- 🌱 Currently learning Front-End Engineering & Data Science
-- 💞️ Looking to collaborate on projects which will provide solutions to problems in urbanism, agriculture, supply chains, education, etc.
-- 📫 How to reach me: aliirmznv@gmail.com
+- I’m interested in data science & analysis, application of programming in business & finance, automation, web development
+- Currently learning Front-End Web Development Tools & Data Science casually
+- Reach me at: aliirmznv@gmail.com 
