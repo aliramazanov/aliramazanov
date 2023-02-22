@@ -1,3 +1,3 @@
-- I'm currently learning Front-End Web Development & Data Science casually
-- Interest in data science & analysis, application of programming in business & finance, automation, web development
+- I'm currently learning mostly Front-End Web Development & Data Science
+- Interest in  web development, data science & analysis, application of programming in business & finance, and automation
 - You can reach me at: aliirmznv@gmail.com 
