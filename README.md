@@ -1,3 +1,2 @@
-- I'm currently learning Front-End Web Development Technologies
-- Interest in Web Development, Automation, Start-Ups and Artificial Intelligence
-- You can reach me at: aliirmznv@gmail.com for personal inquiries and aliramasif@gmail.com for professional purposes.
+- I'm currently learning Web Development
+- Interest in Automation, Start-Ups and AI
