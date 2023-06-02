@@ -1,2 +1,2 @@
 - I'm currently learning Web Development
-- Interest in Automation, Start-Ups and AI
+- Interest in Automation, Startups and AI
