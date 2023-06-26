@@ -1,2 +1,2 @@
-- I'm currently learning Web Development
+- I'm currently learning Full Stack Development
 - Interested in Automation, Startups and AI
