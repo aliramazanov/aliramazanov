@@ -1,6 +1,27 @@
-- Full-Stack Software Developer with expertise in JavaScript, TypeScript, React, Redux, Node.js, Express, TypeORM, PostgreSQL, and MongoDB. <br/>
-- Passionate about creating clean UI using CSS, Tailwind, SASS, styled-components, and design libraries.<br/>
-- Currently practicing Data Structures and Algorithms, with plans to learn Next.js and Nest.js. <br/>
+# Full-Stack Software Developer with expertise in:
+
+## Client Technologies
+- JavaScript
+- TypeScript
+- React
+- Redux
+- CSS
+- Tailwind
+- SASS
+- styled-components
+
+## Server Technologies
+- Node.js
+- Express
+- TypeORM
+- PostgreSQL
+- MongoDB
+
+# Additional Information
+- Passionate about creating clean, intuitive UI.
+- Currently practicing Data Structures and Algorithms.
+- Upcoming learning plans: Next.js and Nest.js.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Ramazanov-blue)](https://www.linkedin.com/in/aliramazanov/)<br/>
 
