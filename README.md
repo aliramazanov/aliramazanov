@@ -27,5 +27,4 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Ramazanov-blue)](https://www.linkedin.com/in/aliramazanov/)  ![Email](https://img.shields.io/badge/Email-aliasifzade@gmail.com-green)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliramazanov&layout=compact) (https://leetcard.jacoblin.cool/aliramazanov?theme=light&font=Vidaloka)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliramazanov&layout=compact) [!(https://leetcard.jacoblin.cool/aliramazanov?theme=light&font=Vidaloka)]
