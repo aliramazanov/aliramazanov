@@ -26,9 +26,6 @@
 - Upcoming learning plans: Next.js and Nest.js.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Ramazanov-blue)](https://www.linkedin.com/in/aliramazanov/)<br/>
-
-[![Email](https://img.shields.io/badge/Email-aliasifzade@gmail.com-green)](mailto:aliasifzade@example.com)<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliramazanov&layout=compact)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Ramazanov-blue)](https://www.linkedin.com/in/aliramazanov/)  [![Email](https://img.shields.io/badge/Email-aliasifzade@gmail.com-green)(mailto:aliasifzade@example.com)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliramazanov&layout=compact) ![](https://leetcard.aliramazanov.cool/jacoblincool?animation=true)
 
