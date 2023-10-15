@@ -1,4 +1,4 @@
-- Full-Stack Software Developer with expertise in JavaScript, TypeScript, React, Redux, Express, PostgreSQL, and MongoDB. <br/>
+- Full-Stack Software Developer with expertise in JavaScript, TypeScript, React, Redux, Node.js, Express, TypeORM, PostgreSQL, and MongoDB. <br/>
 - Passionate about creating clean UI using CSS, Tailwind, SASS, styled-components, and design libraries.<br/>
 - Currently practicing Data Structures and Algorithms, with plans to learn Next.js and Nest.js. <br/>
 
