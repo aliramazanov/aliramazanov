@@ -1,14 +1,16 @@
-# Full-Stack Software Developer with expertise in:
+# Full-Stack Developer
+
+## Skills
+- Proficient in JavaScript and TypeScript for both client and server development.
 
 ## Client Technologies
-- JavaScript
-- TypeScript
+- HTML
+- CSS
+- SASS
+- TailwindCSS
+- styled-components
 - React
 - Redux
-- CSS
-- Tailwind
-- SASS
-- styled-components
 
 ## Server Technologies
 - Node.js
@@ -16,6 +18,7 @@
 - TypeORM
 - PostgreSQL
 - MongoDB
+
 
 # Additional Information
 - Passionate about creating clean, intuitive UI.
