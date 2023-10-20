@@ -2,23 +2,8 @@
 
 ## Skills
 - Proficient in JavaScript and TypeScript for both client and server development.
-
-## Client Technologies
-- HTML
-- CSS
-- SASS
-- TailwindCSS
-- styled-components
-- React
-- Redux
-
-## Server Technologies
-- Node.js
-- Express
-- TypeORM
-- PostgreSQL
-- MongoDB
-
+- Client Technologies:  HTML, CSS, SASS, TailwindCSS, styled-component, React, React Router, Redux
+- Server Technologies:  Node.js, Express,TypeORM, PostgreSQL,MongoDB
 
 # Additional Information
 - Passionate about creating clean, intuitive UI and developer-friendly, well-documented APIs.
