@@ -9,8 +9,3 @@
 - Passionate about creating clean, intuitive UI and developer-friendly, well-documented APIs.
 - Currently doing bootcamp projects & practicing Data Structures and Algorithms.
 - Upcoming learning plans: Next.js and Nest.js.
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Ramazanov-blue)](https://www.linkedin.com/in/aliramazanov/)<br/>
-
-[![Email](https://img.shields.io/badge/Email-aliasifzade@gmail.com-green)](mailto:aliasifzade@example.com)<br/>
