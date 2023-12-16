@@ -7,5 +7,5 @@
 
 # Additional Information
 - Passionate about creating clean, intuitive UI and developer-friendly, well-documented APIs.
-- Currently doing bootcamp projects & practicing Data Structures and Algorithms.
-- Upcoming learning plans: Next.js and Nest.js.
+- Currently doing side projects & practicing Data Structures and Algorithms.
+- Holder of a Master's degree in Management with a keen passion for Finance, Global Economics, and Start-ups.
