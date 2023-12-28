@@ -2,7 +2,7 @@
 
 ## Skills
 - Proficient in JavaScript and TypeScript for both client and server development.
-- Client Technologies: HTML, CSS, SASS, TailwindCSS, UI Libraries, CSS-in-JS Libraries, React, React Router, Redux Toolkit
+- Client Technologies: HTML, CSS, SASS, Tailwind CSS, UI Libraries, CSS-in-JS Libraries, React, React Router, Redux Toolkit
 - Server Technologies: Node.js, Express, JWT, Passport.js, TypeORM, Prisma, PostgreSQL, MongoDB, SocketIO
 
 # Additional Information
