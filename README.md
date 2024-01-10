@@ -1,4 +1,4 @@
-# Full-Stack Developer
+# Front-End Developer
 
 ## Skills
 - Proficient in JavaScript and TypeScript for both client and server development.
