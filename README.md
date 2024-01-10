@@ -1,9 +1,10 @@
 # Front-End Developer
 
 ## Skills
-- Proficient in JavaScript and TypeScript for both client and server development.
+- Capable in JavaScript and TypeScript, primarily for crafting dynamic client-side applications, while also possessing the ability to create server-side solutions.
 - Client Technologies: HTML, CSS, SASS, React, React Router, Redux Toolkit, Tailwind CSS, UI Libraries, CSS-in-JS, Framer Motion
 - Server Technologies: Node.js, Express, JWT, Passport.js, TypeORM, Prisma, PostgreSQL, MongoDB, SocketIO
+- Tools: Git, npm, gulp.js, webpack, Vite, Postman, Figma
 
 # Additional Information
 - Passionate about creating clean, intuitive UI and developer-friendly, well-documented APIs.
