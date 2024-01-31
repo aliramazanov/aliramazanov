@@ -1,4 +1,4 @@
-# Front-End Developer
+# Software Developer
 
 ## Skills
 - Capable in JavaScript and TypeScript, mainly for client-side development, and with the ability to handle server-side & databases.
