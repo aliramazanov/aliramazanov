@@ -9,4 +9,4 @@
 ## Additional Information
 - Passionate about creating mobile-first, intuitive, responsive UI and developer-friendly, well-documented APIs.
 - Currently doing side projects & practicing Data Structures and Algorithms.
-- I’m passionate about FinTech, Economics, and Start-ups. I also have a keen interest in History, Art, and the Outdoors.
+- I’m excited to talk about FinTech, Economics, and Start-ups. I also have a keen interest in History, Art, and the Outdoors.
