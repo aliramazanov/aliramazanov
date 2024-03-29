@@ -1,12 +1,13 @@
 # Software Developer
 
 ## Skills
-- Capable in **JavaScript** & **TypeScript**, mainly for client-side development with the ability to handle server-side & databases.
-- **Client Technologies**: Next.js, React, React Router, Redux Toolkit, SASS, Tailwind CSS, UI Libraries, CSS-in-JS, Framer Motion
-- **Server Technologies**: Node.js, Express, JWT, Passport.js, TypeORM, Prisma, PostgreSQL, MongoDB, SocketIO
-- **Tools**: Git, npm, gulp.js, Vite, Postman, Docker, Figma
+- Capable in **JavaScript** & **TypeScript**, both for client-side & server-side development.
+- **Client-Side Technologies**: Next.js, React, Redux Toolkit, Tailwind CSS, UI Libraries, Framer Motion
+- **Server & Database Technologies**: Node.js, Express, SocketIO, Auth. Systems, ORMs, PostgreSQL, SQLite, MongoDB
+- **Tools**: Command Line, Git, npm, Postman, Swagger, Docker, Figma
 
 ## Additional Information
-- Passionate about creating mobile-first, intuitive, responsive UI and developer-friendly, well-documented APIs.
-- Currently doing side projects & practicing Data Structures and Algorithms.
-- I’m excited to talk about FinTech, Economics, and Start-ups. I also have a keen interest in History, Art, and the Outdoors.
+- I’m excited to talk about FinTech, Economics and Financial Markets, and as well as Start-ups.
+- I also have an interest in History, Art, and the Outdoors.
+- Actively seeking opportunities to contribute to innovative projects 
+- Would love to collaborate with like-minded professionals in a dynamic, growth-oriented environment.
