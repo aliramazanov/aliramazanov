@@ -4,7 +4,7 @@
 - Capable in **JavaScript** & **TypeScript**, both for client-side & server-side development.
 - **Client-Side Technologies**: Next.js, React, Redux Toolkit, Tailwind CSS, UI Libraries, Framer Motion
 - **Server & Database Technologies**: Node.js, Express, SocketIO, Auth. Systems, ORMs, PostgreSQL, SQLite, MongoDB
-- **Tools**: Command Line, Git, npm, Postman, Swagger, Docker, Figma
+- **Tools**: Command Line, Postman, Swagger, Docker, Git, npm, Figma
 
 ## Additional Information
 - I’m excited to talk about FinTech, Economics and Financial Markets, and as well as Start-ups.
