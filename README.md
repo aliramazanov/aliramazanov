@@ -12,5 +12,4 @@
 - Actively seeking opportunities to contribute to innovative projects 
 - Would love to collaborate with like-minded professionals in a dynamic, growth-oriented environment.
 
-## Connect with me on LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://az.linkedin.com/in/aliramazanov?trk=profile-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/aliramazanov)
