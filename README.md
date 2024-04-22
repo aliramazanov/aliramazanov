@@ -7,7 +7,7 @@
 - **Tools**: Command Line, Postman, Swagger, Docker, Git, npm, Figma
 
 ## Additional Information
-- I’m excited to talk about FinTech, Economics and Financial Markets, and as well as Start-ups.
+- I’ m excited to talk about FinTech, Economics and Financial Markets, and as well as Start-ups.
 - I also have an interest in History, Art, and the Outdoors.
 - Actively seeking opportunities to contribute to innovative projects 
 - Would love to collaborate with like-minded professionals in a dynamic, growth-oriented environment.
