@@ -6,4 +6,4 @@
 - **Server & Database Technologies**: Node.js, Express, SocketIO, Auth. Systems, ORMs, PostgreSQL, SQLite, MongoDB
 - **Tools**: Command Line, Postman, Swagger, Docker, Git, npm, Figma
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliramazanov&langs_count=8&layout=compact)](https://github.com/aliramazanov)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliramazanov&langs_count=8&layout=compact)](https://github.com/aliramazanov) [![Leetcode](https://leetcard.jacoblin.cool/aliramazanov?animation=false)]
