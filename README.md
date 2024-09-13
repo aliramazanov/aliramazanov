@@ -2,6 +2,6 @@
 
 ## Skills
 - Capable in **JavaScript** & **TypeScript**, both for client-side & server-side development.
-- **Server & Database Technologies**: Node.js, Express, SocketIO, Auth. Systems, ORMs, SQL, MongoDB, Redis
-- **Client-Side Technologies**: Next.js, React, State Management, Tailwind CSS, UI Libraries, Framer Motion
-- **Tools**: Shell, Postman, Swagger, Docker, Kubernetes, Git, npm, Figma
+- **Server & Database Stack**: Node.js, Express, Nest.js, Validation Libraries, ORMs, SQL, MongoDB, Redis
+- **Client-Side Stack**: Next.js, React, State Management, SCSS, Tailwind CSS, Framer Motion, DevTools, Figma
+- **Tools**: Git, Shell, Postman, Docker, Kubernetes, Apache Kafka, RabbitMQ, Vite, gulp
