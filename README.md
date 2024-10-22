@@ -1,5 +1,4 @@
 # Software Developer
-I am dedicated to crafting and optimizing scalable, high-performance solutions for intricate business challenges, adhering to industry standards. 
 
 ## Skills
 - Capable in **JavaScript** & **TypeScript**, specializing in server-side development while also adept in client-side apps
