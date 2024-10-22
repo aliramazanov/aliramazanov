@@ -1,7 +1,8 @@
 # Software Developer
+I am dedicated to crafting and optimizing scalable, high-performance solutions for intricate business challenges, adhering to industry standards. 
 
 ## Skills
-- Capable in **JavaScript** & **TypeScript**, both for client-side & server-side development.
-- **Server & Database Stack**: Node.js, Express, Nest.js, Validation Libraries, ORMs, SQL, MongoDB, Redis
-- **Client-Side Stack**: Next.js, React, State Management, SCSS, Tailwind CSS, Framer Motion, DevTools, Figma
-- **Infra & Platform Tools**: Git, Shell, Postman, Docker, Kubernetes, Apache Kafka, RabbitMQ, Vite, gulp
+- Capable in **JavaScript** & **TypeScript**, specializing in server-side development while also adept in client-side apps
+- **Server & Database Stack**: Node.js, Express.js, Nest.js, Validation, ORM & ODM Libraries, SQL, MongoDB, Redis
+- **Client-Side Stack**: React, State Management Libraries, Tailwind CSS, Framer Motion, DevTools, Figma
+- **Infra & Platform Tools**: Git, Shell, Postman, Docker, Kubernetes, Nx, Apache Kafka, RabbitMQ, Vite, gulp
